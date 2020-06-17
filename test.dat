@@ -1,0 +1,7 @@
+/*********************************************
+ * OPL 12.10.0.0 Data
+ * Author: Client
+ * Creation Date: 11 juin 2020 at 18:53:09
+ *********************************************/
+//SheetConnection my_sheet("test-excel.xlsx");
+//y to SheetWrite(my_sheet,"results");
